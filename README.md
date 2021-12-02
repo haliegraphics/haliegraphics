@@ -1,2 +1,2 @@
 - Hi, I’m @haliegraphics, a freelance Graphicdesigner from Germany
-- I’m currently learning webdesign based on HTML, CSS and JavaScript and I would love to learn so much more about developing and coding
+- I’m currently learning webdesign based on HTML, CSS and JavaScript and I would love to learn so much more about developing and coding -
